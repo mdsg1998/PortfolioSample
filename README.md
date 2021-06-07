@@ -5,18 +5,10 @@ Portfolio Sample
 
 ## デモ
 [Webサイトをみる](https://portfolio-sample-matsuda.herokuapp.com/)
+<img width="960" alt="ポートフォリオサンプル" src="https://user-images.githubusercontent.com/85115154/121056343-10f1d380-c7f9-11eb-9214-45ea39666d4b.png">
 
 ## 利用している技術
-使った言語やツールなどのバージョンを記載する。
+HTML / CSS
 
 ## インストール方法
-インストールの仕方を記載する。
-
-### その他に記載すると良い事項
-* システム構成図
-* 使い方
-　　* インストール方法
-　　* テスト方法
-　　* デプロイ方法
-* こだわりポイント
-* ライセンス情報
+そのままindex.htmlをブラウザで開くと閲覧できます。
